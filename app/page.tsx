@@ -12,7 +12,7 @@ export default function Home() {
           priority
         />
         <div className="flex flex-col gap-1 items-end">
-          <h1>Hi Mom! Hi Dad!</h1>
+          <h1>Hi Mom! Hi Dad! 😀</h1>
         </div>
       </main>
     </div>
